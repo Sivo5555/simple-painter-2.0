@@ -1,0 +1,3 @@
+public enum ToolType {
+    BRUSH,PEN,POLYLINE,SQUARE,OVAL,POLYGON;
+}
